@@ -1,30 +1,43 @@
-### Hi! 👋 I'm Putra.
+## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-An independent Software Engineer who loves to create and share projects about web and latest technology!
+I'm Muhamad Putra Perdana, an independent Software Engineer who loves to work on project and share it with others.
 
-I'm currently learning about Back-End and Front-End Services.
+- :rocket: Currently I'm learning about Back-End and Front-End Services.
 
-- 🔭 I’m a student in Universitas Negeri Semarang majoring in Computer Science
-- 💬 Feel free to reach me through my email
-- 📫 How to reach me: putraperdana138@gmail.com
-<!-- - ⚡ Fun fact: Will be Father of a daughter -->
+- :book: Still pursuing my Bachelors in Computer Science
 
-### Tech Stack
-  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" /></a>
-<!--   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a> -->
-  <br>
-  <br>
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/putraperdana138">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=putraperdana138&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=putraperdana138&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
-</p>
+- :raised_hands: Loves to work in group so we can share our knowledges!
 
-### Reach me on
-- <a href="www.linkedin.com/in/ptraprdn/">LinkedIn</a>
+## 🛠️ Skills
+
+### Laguanges
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&&style=for-the-badge)
+![php](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![r](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+
+### Front-End Development
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-End Development
+![laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&&style=for-the-badge)
+
+### Database
+![mysql](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 📈 Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=putraperdana138&show_icons=true&hide_border=true&theme=algolia" alt="Puta Perdana's GitHub Stats">
+</div>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=putraperdana138" alt="visitors">
+</div>
+
+## :pushpin: Reach Me
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/putraprdn/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/putraperdana138)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/putra_perdanas/)
