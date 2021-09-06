@@ -4,7 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently learning about Back-End and Front-End Services.
 
-- 🔭 I’m currently a student in Universitas Negeri Semarang majoring in Computer Science
+- 🔭 I’m a student in Universitas Negeri Semarang majoring in Computer Science
 - 💬 Feel free to reach me through my email
 - 📫 How to reach me: putraperdana138@gmail.com
 <!-- - ⚡ Fun fact: Will be Father of a daughter -->
