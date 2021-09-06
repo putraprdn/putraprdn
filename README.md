@@ -10,7 +10,7 @@ I'm Muhamad Putra Perdana, an independent Software Engineer who loves to work on
 
 ## 🛠️ Skills
 
-### Laguanges
+### Languanges
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&&style=for-the-badge)
 ![php](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
