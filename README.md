@@ -30,11 +30,11 @@ I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on proje
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=putraperdana138&show_icons=true&hide_border=true&theme=algolia" alt="Puta Perdana's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=putraprdn&show_icons=true&hide_border=true&theme=algolia" alt="Puta Perdana's GitHub Stats">
 </div>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=putraperdana138" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=putraprdn" alt="visitors">
 </div>
 
 ## :pushpin: Reach Me
