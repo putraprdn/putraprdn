@@ -2,7 +2,7 @@
 
 I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on project and share it with others.
 
-- :rocket: Currently I'm learning about Back-End and Front-End Services.
+- :rocket: Currently learning about Back-End and Front-End Services.
 
 - :book: Still pursuing my Bachelor in Computer Science.
 
