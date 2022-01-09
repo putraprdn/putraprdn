@@ -30,7 +30,8 @@ I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on proje
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=putraprdn&show_icons=true&hide_border=true&theme=algolia" alt="Puta Perdana's GitHub Stats">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=putraprdn&show_icons=true&hide_border=true&theme=algolia" alt="Puta Perdana's GitHub Stats"> -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=putraprdn&show_icons=true&theme=algolia&include_all_commits=true" alt="Puta Perdana's GitHub Stats">
 </div>
 
 <div align="center">
