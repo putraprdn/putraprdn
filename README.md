@@ -19,12 +19,14 @@ I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on proje
 ### Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 
 ### Back-End Development
-![laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&&style=for-the-badge)
+![laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 
 ### Database
 ![mysql](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
+![neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 
 ## 📈 Stats
