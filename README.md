@@ -42,4 +42,4 @@ I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on proje
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/putraprdn/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/putraperdana138)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/putra_perdanas/)
-[![putraprdn.io](https://img.shields.io/badge/Github.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://putraprdn.github.io/)
+[![putraprdn.io](https://img.shields.io/badge/putraprdn.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://putraprdn.github.io/)
