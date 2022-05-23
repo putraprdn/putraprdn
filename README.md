@@ -36,6 +36,9 @@ I'm Muhamad Putra Perdana, a Web Developer enthusiast who loves to work on proje
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=putraprdn&show_icons=true&theme=algolia&include_all_commits=true" alt="Puta Perdana's GitHub Stats">
 </div>
 
+![](https://github.com/putraprdn/putraprdn/blob/output/github-contribution-grid-snake.gif?raw)
+
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=putraprdn" alt="visitors">
 </div>
