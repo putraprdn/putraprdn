@@ -30,9 +30,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: putraprdn
-          
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette?github-dark
           
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -45,7 +45,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # the output branch we mentioned above
           target_branch: output
